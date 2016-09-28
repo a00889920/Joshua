@@ -20,9 +20,8 @@ definition(
     description: "Child Video Camera SmartApp",
     category: "Safety & Security",
     iconUrl: "https://s3.amazonaws.com/smartapp-icons/Solution/camera.png",
-    iconX2Url: "https://s3.amazonaws.com/smartapp-icons/Solution/camera@2x.png",
-    iconX3Url: "https://s3.amazonaws.com/smartapp-icons/Solution/camera@2x.png")
-
+    iconX2Url: "https://s3.amazonaws.com/smartapp-icons/Solution/camera%402x.png",
+    iconX3Url: "https://s3.amazonaws.com/smartapp-icons/Solution/camera%402x.png")
 
 preferences {
     page(name: "mainPage", title: "Install Video Camera", install: true, uninstall:true) {

@@ -22,7 +22,7 @@ definition(
     description: "Flashes a set of lights in response to motion, an open/close event, or a switch.",
     category: "Convenience",
     iconUrl: "https://s3.amazonaws.com/smartapp-icons/Meta/light_motion-outlet-contact.png",
-    iconX2Url: "https://s3.amazonaws.com/smartapp-icons/Meta/light_motion-outlet-contact@2x.png"
+    iconX2Url: "https://s3.amazonaws.com/smartapp-icons/Meta/light_motion-outlet-contact%402x.png"
 )
 
 preferences {

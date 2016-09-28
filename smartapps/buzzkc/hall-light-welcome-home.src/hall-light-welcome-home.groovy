@@ -13,8 +13,8 @@ definition(
   author: "github@buzzkc.com",
   description: "Turn on the hall light if someone comes home (presence) and the door opens.",
   category: "Convenience",
-  iconUrl: "https://s3.amazonaws.com/smartapp-icons/Convenience/Cat-Convenience.png",
-  iconX2Url: "https://s3.amazonaws.com/smartapp-icons/Convenience/Cat-Convenience%402x.png"
+  iconUrl: "https://s3.amazonaws.com/smartapp-icons/Convenience/App-LightUpWhenOpened.png",
+  iconX2Url: "https://s3.amazonaws.com/smartapp-icons/Convenience/App-LightUpWhenOpened%402x.png"
 )
 
 preferences {

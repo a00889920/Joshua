@@ -20,8 +20,8 @@ definition(
     description: "This smartapp installs the Generic Video Camera Connect App so you can add multiple child video cameras",
     category: "Safety & Security",
     iconUrl: "https://s3.amazonaws.com/smartapp-icons/Solution/camera.png",
-    iconX2Url: "https://s3.amazonaws.com/smartapp-icons/Solution/camera@2x.png",
-    iconX3Url: "https://s3.amazonaws.com/smartapp-icons/Solution/camera@2x.png",
+    iconX2Url: "https://s3.amazonaws.com/smartapp-icons/Solution/camera%402x.png",
+    iconX3Url: "https://s3.amazonaws.com/smartapp-icons/Solution/camera%402x.png",
     singleInstance: true)
 
 

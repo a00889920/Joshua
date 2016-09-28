@@ -26,8 +26,8 @@ definition(
     author: "BuzzKC",
     category: "Safety & Security",
     description: "Randomly turn on/off lights to simulate the appearance of a occupied home while you are away.",
-    iconUrl: "http://icons.iconarchive.com/icons/custom-icon-design/mono-general-2/512/settings-icon.png",
-    iconX2Url: "http://icons.iconarchive.com/icons/custom-icon-design/mono-general-2/512/settings-icon.png"
+    iconUrl: "https://s3.amazonaws.com/smartapp-icons/Convenience/App-LightUpMyWorld.png",
+    iconX2Url: "https://s3.amazonaws.com/smartapp-icons/Convenience/App-LightUpMyWorld%402x.png"
 )
 
 preferences {
